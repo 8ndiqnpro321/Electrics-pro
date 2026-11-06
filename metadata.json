@@ -1,0 +1,6 @@
+{
+  "name": "ElectroHub - Electrical Projects & Circuit Showcase",
+  "description": "Showcase, explore, and share electrical & electronics engineering projects with schematics, project galleries, optional source code, and interactive discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
